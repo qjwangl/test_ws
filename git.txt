@@ -349,6 +349,10 @@ git push origin --delete local_branch
     # 暂时将未提交的变化移除，稍后再移入
     $ git stash
     $ git stash pop
+    
+    
+     git reset --hard origin/master
+     git fetch --all
 
 
 
