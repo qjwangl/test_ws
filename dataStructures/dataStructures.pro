@@ -12,7 +12,9 @@ SOURCES += main.cpp \
     fathertree.cpp \
     brothertree.cpp \
     threadtree.cpp \
-    binarythreadtree.cpp
+    binarythreadtree.cpp \
+    condition_variable.cpp \
+    c++11_thread.cpp
 
 HEADERS += \
     tree.h
