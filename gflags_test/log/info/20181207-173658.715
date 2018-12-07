@@ -1,0 +1,17 @@
+Log file created at: 2018/12/07 17:36:58
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1207 17:36:58.549021   715 main.cpp:46] port = 9090
+I1207 17:36:58.551511   715 main.cpp:47] security_flag = 0
+I1207 17:36:58.551807   715 main.cpp:48] flagfile = ../conf/setup.ini
+I1207 17:36:58.552075   715 main.cpp:53] google log first info level message!
+I1207 17:37:08.553066   715 main.cpp:53] google log first info level message!
+I1207 17:37:18.554311   715 main.cpp:53] google log first info level message!
+I1207 17:37:28.555629   715 main.cpp:53] google log first info level message!
+I1207 17:37:38.556818   715 main.cpp:53] google log first info level message!
+I1207 17:37:48.558264   715 main.cpp:53] google log first info level message!
+I1207 17:37:58.559511   715 main.cpp:53] google log first info level message!
+I1207 17:38:08.560667   715 main.cpp:53] google log first info level message!
+I1207 17:38:18.561969   715 main.cpp:53] google log first info level message!
+I1207 17:38:28.563285   715 main.cpp:53] google log first info level message!
+I1207 17:38:38.564646   715 main.cpp:53] google log first info level message!

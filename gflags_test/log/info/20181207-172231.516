@@ -1,0 +1,4 @@
+Log file created at: 2018/12/07 17:22:31
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1207 17:22:31.988764   516 main.cpp:36] google log first info level message!

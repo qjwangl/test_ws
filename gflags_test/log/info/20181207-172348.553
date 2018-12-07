@@ -1,0 +1,18 @@
+Log file created at: 2018/12/07 17:23:48
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1207 17:23:48.001060   553 main.cpp:36] google log first info level message!
+I1207 17:23:48.004972   553 main.cpp:45] google log first info level message!
+I1207 17:23:58.005734   553 main.cpp:45] google log first info level message!
+I1207 17:24:08.007146   553 main.cpp:45] google log first info level message!
+I1207 17:24:18.008311   553 main.cpp:45] google log first info level message!
+I1207 17:24:28.009553   553 main.cpp:45] google log first info level message!
+I1207 17:24:38.010887   553 main.cpp:45] google log first info level message!
+I1207 17:24:48.014098   553 main.cpp:45] google log first info level message!
+I1207 17:24:58.014549   553 main.cpp:45] google log first info level message!
+I1207 17:25:08.015815   553 main.cpp:45] google log first info level message!
+I1207 17:25:18.016964   553 main.cpp:45] google log first info level message!
+I1207 17:25:28.018355   553 main.cpp:45] google log first info level message!
+I1207 17:25:38.019683   553 main.cpp:45] google log first info level message!
+I1207 17:25:48.021087   553 main.cpp:45] google log first info level message!
+I1207 17:25:58.022490   553 main.cpp:45] google log first info level message!

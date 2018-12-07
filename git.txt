@@ -351,12 +351,12 @@ git push origin --delete local_branch
     $ git stash pop
     
     
+	和服务上的文件保持一致
      git reset --hard origin/master
      git fetch --all
 
 
-
-靠靠
+下载版本
 git clone -b v1.13.0 https://github.com/grpc/grpc.git
 
 
