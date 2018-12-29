@@ -14,7 +14,9 @@ SOURCES += main.cpp \
     threadtree.cpp \
     binarythreadtree.cpp \
     condition_variable.cpp \
-    c++11_thread.cpp
+    c++11_thread.cpp \
+    tree.cpp
 
 HEADERS += \
-    tree.h
+    tree.h \
+    bintree.h

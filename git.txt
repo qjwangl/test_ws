@@ -1,12 +1,15 @@
 git init testgit
-git add xxxx
-git commit -m ""
+icode{
+	git add xxxx
+	git commit -m "V2x-1"
+	git push origin HEAD:refs/for/master
+}
 
 git reset --hard 版本号
 
 git checkout -- 文件名
 
-
+git clone --recursive https://github.com/imistyrain/SSH-Windows.git 递归
 git clone https://github.com/qjwangl/testgit.git
 ( git clone -b mutilrecall http://gitlab.avc.domain/ttengine/ttengine.git)
 git push -u origin master
